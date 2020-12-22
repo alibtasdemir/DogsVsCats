@@ -1,0 +1,7 @@
+DATA_DIR = "../input/train"
+BATCH_SIZE = 8
+IMG_WIDTH = 128
+IMG_HEIGHT = 128
+NUM_WORKERS = 0
+EPOCHS = 100
+DEVICE = "cuda"
